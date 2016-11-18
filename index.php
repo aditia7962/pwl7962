@@ -2,7 +2,7 @@
 
 require ('lib/hallo.class.php');
 
-$string = "Adit";
+$string = "Aditia Rahmadan";
 
 $hallo = new Hallo;
 echo $hallo->sapa($string);
